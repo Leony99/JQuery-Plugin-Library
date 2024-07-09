@@ -1,4 +1,3 @@
-const path = require('path');
 const mode = process.env.NODE_ENV !== 'production';
 const terserPlugin = require('terser-webpack-plugin');
 

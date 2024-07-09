@@ -1,3 +1,3 @@
-import './plugins/clocks.js';
+import './plugins/entry.js';
 
 $('div').timerUntilDate();

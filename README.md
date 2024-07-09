@@ -41,7 +41,15 @@ In your html, include the JavaScript file.
 <script type="module" src="./path/to/script.js"></script>
 ```
 
-### Step 3: Import the plugin
+### Step 3: Include or Import the plugin
+
+In your html, include the plugins file.
+
+```html
+<script src="./path/to/pluginLib.js"></script>
+```
+
+*or*
 
 In your JavaScript file, import the plugin.
 
